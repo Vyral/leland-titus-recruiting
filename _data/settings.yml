@@ -6,9 +6,11 @@ custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: #
+    url: http://santaferealtyunlimited.eventbrite.com/
+  - title: Free Newsletter
+    url: /subscribe/
   - title: Free Strategy Call
-    url: /contact/
+    url: /strategy-call/
 client:
   name: Leland Titus
   title:

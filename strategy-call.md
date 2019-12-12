@@ -12,42 +12,41 @@ permalink: /strategy-call/
 
 <p>Need direction and focus to sell more homes?</p>
 
-<p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
+<p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales. </p>
 
-<p><strong>I know how challenging it is to sell real estate.</strong></p>
+<p>I know how challenging it is to sell real estate.</p>
 
 <p>You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you).</p>
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<!-- {% include strategy-photos.html %} -->
-
-<p>My name is ____ and I’ve sold ____ of homes to date.</p>
+<p>My name is Leland Titus and I’ve sold over 400 homes. </p>
 
 <p>I want to help you sell more homes.</p>
 
 <p>I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what I would do in your situation to sell more homes.</p>
 
-<p>I also share with you what we’re doing that works to generate and sales.</p>
+<p>I will also share with you what we’re doing that works to generate leads and sales. </p>
 
 <p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), I’ll help you write a business plan tailored just for you.</p>
 
-<p>You’ll walk away with a plan of action, with steps you can take right away, to find homeowners who want to sell their home who list with you.</p>
+<p>You’ll walk away with a plan of action, with steps you can take right away, to find homeowners who will list their home with you. </p>
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
+
 
 <hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"It’s natural and terrifying as human beings to resist change. We are creatures of habit and routine and it's evident that we become threatened to break our comfort zones. I would encourage everyone to challenge themselves to genuinely take a hard, long look at themselves. Look into a mirror and ask yourself...am I happy? I can absolutely relate. I was miserable prior to joining the Santa Fe Realty Unlimited family, but I had already created the work routine and established my comfort zone. Once I took a chance and embraced change, I was met by Leland and welcomed with open arms. It has been nothing short of amazing working with his team. I am truly grateful and honored to be mentored by someone I genuinely respect and admire. Thank you Leland for allowing me to be myself and always willing to have an honest conversation with me."</span><br>
+<span class="author">- Ewan Jones</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"I feel like if I had switched companies sooner I would be much further ahead in my career. I always felt like they didn't have time for me, and they certainly didn't offer the kind of training you have provided. SFRU has had such a positive impact on my career, as well as my life. I feel very fortunate to be a part of this family. I need someone to work with me, and show me the right way of doing things. Even though you are very busy, you always make time for all of us. I really appreciate that. Thank you so much!"</span><br>
+<span class="author">- Rudy Baca</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"As one of the realtors that's been at the office the longest; I've always had questions and problems and I can honestly say that Leland helped me out every time and always fought to defend me while in those situations. He has been completely genuine with the way he runs the brokerage and has influenced your realtors; especially me, because you made it like a family and not like any other mainstream real estate company that sees you as a number."</span><br>
+<span class="author">- Juan Carlos Mora</span></p>
 </div>
 <hr>
 
@@ -61,14 +60,16 @@ permalink: /strategy-call/
 
 <p>I also figure we’ll do business together someday and I would like to get to know you. I enjoy seeing real estate agents succeed. It’s fulfilling, and I love it.</p>
 
-<p><strong>I invite you to request a free one-on-one business strategy meeting with me.</strong> We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
+<p>I invite you to request a free one-on-one business strategy meeting with me. We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
 
-<p>I have a questionnaire I would like you fill out so that when we meet so I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
+<p>I have a questionnaire I would like you to fill out so that when we meet so I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
 
 <p>Look forward to meeting with you. Let’s grow your business.</p>
 
 <p>Sincerely,</p>
-<p>{{site.data.settings.client.name}}</p>
+ 
+<p>Leland Titus</p>
+
 
 
 <h1 class="join-us">Request a FREE One-on-one Business Planning Meeting</h1>
