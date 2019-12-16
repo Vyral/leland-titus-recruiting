@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Your Real Estate License
-date: 2019-12-13 18:55:45
+date: 2019-12-13 18:55:00
 tags:
   - Transaction Management
 excerpt: Here’s a step-by-step guide of how to get your real estate license.
@@ -33,4 +33,4 @@ After that, **it’s time to decide which brokerage you want to join.** If you m
 
 Lastly, **you join the MLS and start training to sell your first home.**&nbsp;
 
-That’s all it takes\! If you’d like to know more about starting your real estate career, I encourage you to attend one of my career nights. If you have any more questions about this topic, specifically, don’t hesitate to reach out to me. I’d be happy to speak with you.
+That’s all it takes\! If you’d like to know more about starting your real estate career, I encourage you to attend one of my career nights. If you have any more questions about this topic specifically, don’t hesitate to reach out to me. I’d be happy to speak with you.
