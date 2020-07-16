@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Does It Take to Be Successful in Real Estate?'
-date: 2020-07-15 20:49:32
+date: 2020-07-15 20:49:00
 tags:
   - Buyer Prospects
   - Lead Conversion
@@ -23,7 +23,7 @@ youtube_code: XAqVU4x5cdk
 
 When agents ask me what it takes to be successful in this business, I tell them there really is no clear-cut answer. **However, real estate is a ‘people business,’ and your success ultimately is measured on how many people you can help buy or sell a home.**
 
-I’ve been in the business for a long time and continue to gain new knowledge and new clients via referrals from people I’ve helped in the past, and from those who are connected with me on social media. **It’s important to build these different avenues so that people know to look at you as the local expert in real estate.** The quicker you can build up your SOI, your database, and your network and provide valuable information to them, the better off you will be.
+I’ve been in the business for a long time and continue to gain new knowledge and clients via referrals from people I’ve helped in the past, and from those who are connected with me on social media. **It’s important to build these different avenues so that people know to look at you as the local expert in real estate.** The quicker you can build up your SOI, database, and network and provide valuable information to them, the better off you will be.
 
 {% include pullquote.html %}
 
